@@ -9,7 +9,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //yang1 
+        //yang2
         Console.WriteLine("Hello World!");
     }
 }
